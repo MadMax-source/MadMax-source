@@ -1,9 +1,11 @@
 <!-- HERO ANIMATION -->
+
+<p align="center">
+  <img src="https://ivory-leading-hippopotamus-663.mypinata.cloud/ipfs/bafkreia6edoxih46uy3fxcqbiu2l6ninaf6ks4g2emngdbguk3dapcle6q" width="250" style="border-radius: 50%;" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Lawal+Job;Full+Stack+Developer;Blockchain+Engineer+(Solana+%2F+Ethereum);AI+%2F+ML+Engineer;Cybersecurity+Researcher;Building+Secure+%26+Scalable+Systems" />
-</p>
-<p align="center">
-  <img src="https://ivory-leading-hippopotamus-663.mypinata.cloud/ipfs/bafkreia6edoxih46uy3fxcqbiu2l6ninaf6ks4g2emngdbguk3dapcle6q" width="180" style="border-radius: 50%;" />
 </p>
 
 ---

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Lawal+Job;Full+Stack+Developer;Blockchain+Engineer+(Solana+%2F+Ethereum);AI+%2F+ML+Engineer;Cybersecurity+Researcher;Building+Secure+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Lawal+Job;Full+Stack+Developer;Blockchain+Engineer;AI+Engineer;Cybersecurity+Researcher" />
 </p>
 
 ---
